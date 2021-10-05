@@ -8,8 +8,10 @@ figure{
     margin: 0 30%;;
 }
 #Header{
-    background:url('../Gallery/Pattern1.png') no-repeat center scroll;
+    background:url('../Gallery/Patterns/Hinterrhein.png') no-repeat center scroll;
+    background-size: 100% 400px;
 }
 #about{
-    background:;
+    background:url('../Gallery/Patterns/Linth.png') no-repeat center scroll;
+    background-size: 100% 400px;
 }
