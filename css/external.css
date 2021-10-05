@@ -8,12 +8,10 @@ figure{
     margin: 0 30%;;
 }
 #Header{
-    background:url('Gallery/Pattern1.png') no-repeat center scroll;
+    background:url('Gallery/Pattern1.png') no-repeat center scrol;
     border: 3px solid red;
-    border-radius: 10px;
 }
 #about{
     background:khaki;
     border: 3px solid purple;
-    border-radius: 10px;
 }
