@@ -11,6 +11,7 @@ h1{
     color: black;
     text-align: center;
     font-weight: bolder;
+    text-shadow: black 3px 3px;
 }
 h2{
     font-weight: bolder;
