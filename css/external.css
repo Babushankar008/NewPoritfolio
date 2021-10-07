@@ -18,7 +18,7 @@ div{
 }
 figure{
     display :inline-block;
-    margin: 0 2%;
+    margin: 0 1%;
 }
 img{
     border-radius: 25px;
@@ -26,4 +26,8 @@ img{
 figcaption{
     font-weight: bolder;
     text-align: center;
+}
+#name{
+    text-align: right;
+    font-weight: bolder;
 }
