@@ -7,7 +7,7 @@ h1{
     color: black;
     text-align: center;
     font-weight: bolder;
-    text-shadow: black 3px 3px;
+    text-shadow:3px 3px 3px black;
 }
 h2{
     font-weight: bolder;
