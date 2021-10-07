@@ -1,14 +1,13 @@
 html,body{
     background: url("../Gallery/Background2.jpg") no-repeat center center fixed;
-
 }
 h1,p,h2,h3,h4{
-    font-family: monospace;
+    font-family: sans-serif;
     margin: 0px;
-    font-weight: bolder;
+    font-weight: 500;
 }
 h1{
-    font-size: 4em;
+    font-size: 6em;
     color: black;
 }
 div{
