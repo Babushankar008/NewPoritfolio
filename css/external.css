@@ -33,3 +33,6 @@ figcaption{
     font-weight: bolder;
     margin-right: 30px;
 }
+legend{
+    text-align: center;
+}
